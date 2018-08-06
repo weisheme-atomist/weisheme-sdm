@@ -215,9 +215,3 @@ Releases are handled via the SDM itself.  Just press the release
 button in Slack or the Atomist dashboard.
 
 ---
-
-Created by [Atomist][atomist].
-Need Help?  [Join our Slack team][slack].
-
-[atomist]: https://atomist.com/ (Atomist - How Teams Deliver Software)
-[slack]: https://join.atomist.com/ (Atomist Community Slack)
